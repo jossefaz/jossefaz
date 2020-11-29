@@ -16,18 +16,37 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 
 ### What do I do ?
 
-## Backend Engeneering
+#### Backend Engeneering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GO-336791?logo=go&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge">
 </p>
 
-## Frontend Engeneering
+
+
+---
+
+- Build a microservice oriented architecture for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
+
+- Created a data processor engine, that I called the <a href="https://github.com/yossefaz/pypliner-data-processor">Pypeliner</a> (because it is python based) : it allows to run scripts based on configuration files with results injection between differents scripts
+
+- Created a microservice oriented architecture (Golang based) for processing DWG files conversion. I am currently work on improve it by splitting it to independent repository, one for each microservices. Search "dwg-transformer" in my repositories and you'll get there.
+
+- Created microservices for saving spatial data. <a href="https://github.com/yossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. I used Java and Spring Framework for that project, with <a href="http://www.hibernatespatial.org/"> Hibernate Spatial </a>
+
+
+#### Frontend Engeneering
 <p>
    <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </p>
+
+- Build an open-source GIS Web Application bbased on <a href="https://openlayers.org/">OpenLayers 6.0 </a> and <a href="http://geoserver.org/">Geoserver </a>
 
 <img src="https://user-images.githubusercontent.com/61141682/93464410-668ff400-f8e9-11ea-9122-2d248fbac6be.png">
 
