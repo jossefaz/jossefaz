@@ -11,6 +11,7 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 <p align="center">
 <img align="center" alt="GIF" height="100px" src="https://user-images.githubusercontent.com/61141682/90424945-a33cb580-e0c7-11ea-89eb-3d77581b34b2.gif" />
 </p>  
+
 ---
 
 ### What do I do ?
