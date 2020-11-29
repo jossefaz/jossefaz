@@ -55,6 +55,10 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 
 - Build a front end for managing signs posts for municipalities.  
 
+### GitHub Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yossefaz&show_icons=true)
+
 ### Contact Me
 
 ---
