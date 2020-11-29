@@ -58,8 +58,6 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 ### Contact Me
 
 <a href=”https://www.linkedin.com/azoulayossef”>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" >
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
-
-
 
