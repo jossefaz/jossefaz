@@ -57,7 +57,7 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 
 ### GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yossefaz&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yossefaz&show_icons=true&count_private=true&theme=react)
 
 ### Contact Me
 
