@@ -55,11 +55,13 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 
 - Build a front end for managing signs posts for municipalities.  
 
-### GitHub Stats
+---
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yossefaz&show_icons=true&count_private=true&theme=react" />
 </p>
+
+---
 
 ### Contact Me
 
