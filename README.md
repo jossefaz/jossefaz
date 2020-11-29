@@ -49,8 +49,17 @@ By the way, I love medieval history and Kendo (Japanese fencing).
    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </p>
 
+---
+
 - Build an open-source <a href="https://github.com/yossefaz/gis_front"> GIS Web Application </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a> and <a href="http://geoserver.org/">Geoserver </a>
 
 - Build a front end for managing signs posts for municipalities.  
+
+### Contact Me
+
+<a href=”https://www.linkedin.com/azoulayossef”>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge>
+</a>
+
 
 
