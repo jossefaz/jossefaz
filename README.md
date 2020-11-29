@@ -16,7 +16,7 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 
 ### What do I do ?
 
-#### Backend Engeneering
+#### :octocat: Backend Engeneering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge">
@@ -43,7 +43,7 @@ By the way, I love medieval history and Kendo (Japanese fencing).
 - Build a <a href="https://github.com/yossefaz/projet-veterinaire-geocoding"> script </a> for interacting with <a href="https://developers.google.com/maps/documentation/geocoding/overview"> Google Geocoding API </a>.  
 
 
-#### Frontend Engeneering
+#### :computer: Frontend Engeneering
 <p>
    <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
