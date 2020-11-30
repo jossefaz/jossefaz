@@ -8,7 +8,7 @@ I am a software craftsman for 8 years, passionate developer, spatial data and al
 
 Well organized work is a must for me : I use productivity tool for all my tasks and coding issues such as Trello, Jira, Github and Gitlab projects. DevOps tools are also a must for most of my projects and I use Docker, K8s, Travis CI and Jenkins for testing and deploying.
 
-I am alway eager to work on chanllenging tasks. I got strong interpersonal and teamworks skills. 
+I am always eager to work on chanllenging tasks. I got strong interpersonal and teamworks skills. 
 By the way, I love medieval history and Kendo (Japanese fencing).
 
 <p align="center">
