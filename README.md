@@ -64,15 +64,8 @@ I am always eager to work on chanllenging tasks.
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jossefaz&show_icons=true&count_private=true&theme=react" />
-</p>
-
----
 
 #### :computer: OS, DevOps and Work Tools
-
----
 
 <p>
    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge">
@@ -83,6 +76,14 @@ I am always eager to work on chanllenging tasks.
 </p>
 
 ---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jossefaz&show_icons=true&count_private=true&theme=react" />
+</p>
+
+---
+
+
 
 ### Contact Me
 
