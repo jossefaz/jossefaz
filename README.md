@@ -70,6 +70,20 @@ I am always eager to work on chanllenging tasks.
 
 ---
 
+#### :computer: OS, DevOps and Work Tools
+
+---
+
+<p>
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge">
+   <img src="https://img.shields.io/badge/Jira-61DAFB?logo=jira&logoColor=0052CC&style=for-the-badge">
+   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TravisCI-3EAAAF?logo=travisci&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitlabCI-FCA121?logo=gitlab&logoColor=white&style=for-the-badge">
+</p>
+
+---
+
 ### Contact Me
 
 
