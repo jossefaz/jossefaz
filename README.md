@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/github_banner2.gif">
+<img src="/githubBanner.gif">
 </p>  
 
 ### Hi there and welcome to my Github Page !
