@@ -51,11 +51,11 @@ I am always eager to work on chanllenging tasks.
 <p>
    <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-     <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge">
+   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge">
+   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white&style=for-the-badge">
+   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/OpenLayers-1F6B75?logo=openlayers&logoColor=white&style=for-the-badge">
 </p>
-
-
 
 ---
 
