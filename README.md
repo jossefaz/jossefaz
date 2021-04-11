@@ -41,10 +41,10 @@ I am always eager to work on chanllenging tasks.
 - Build a microservice oriented architecture for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
 
 - Created a microservice oriented architecture (TDD Python based) for GIS services (All those services run testsuits with Github actions CI): 
-          - <a href="https://github.com/jossefaz/gis-custom-layers-api"> Custom Layers API </a> : An API that CRUD GeoJSON files
-          - <a href="https://github.com/jossefaz/gis-geofiles-convertor"> Geofiles API </a> : An API that allows conversion between differents geographic files type (GeoJSON/ Esri Shapefile / DWG)
-          - <a href="https://github.com/jossefaz/gis-users-api"> Users API </a> : An API that handle authentication
-          - <a href="https://github.com/jossefaz/gis-oauth-api"> Oauth API </a> : An API that handle authorization (JWT based)
+          * <a href="https://github.com/jossefaz/gis-custom-layers-api"> Custom Layers API </a> : An API that CRUD GeoJSON files
+          * <a href="https://github.com/jossefaz/gis-geofiles-convertor"> Geofiles API </a> : An API that allows conversion between differents geographic files type (GeoJSON/ Esri Shapefile / DWG)
+          * <a href="https://github.com/jossefaz/gis-users-api"> Users API </a> : An API that handle authentication
+          * <a href="https://github.com/jossefaz/gis-oauth-api"> Oauth API </a> : An API that handle authorization (JWT based)
 
 - Created microservices for saving spatial data. <a href="https://github.com/jossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. I used Java and Spring Framework for that project, with <a href="http://www.hibernatespatial.org/"> Hibernate Spatial </a>
 
