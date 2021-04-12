@@ -64,7 +64,7 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
 </p>
 
 
-- Build ReactJS - Typescript <a href="https://github.com/jossefaz/gis_front"> GIS Web Application </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a>  <a href="http://geoserver.org/">Geoserver </a>
+- Build ReactJS - Typescript <a href="https://github.com/jossefaz/gis_front"> GIS Web Application </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a> and <a href="http://geoserver.org/">Geoserver </a>
 
 - Build a front end for managing signs posts for municipalities.  
 
@@ -79,9 +79,8 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=0052CC&style=for-the-badge">
    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/TravisCI-3EAAAF?logo=travis&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitlabCI-FCA121?logo=gitlab&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Github Actions CI-2088FF?logo=github&logoColor=white&style=for-the-badge">
 </p>
-
 
 
 
