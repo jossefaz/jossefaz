@@ -38,14 +38,14 @@ I am always eager to work on chanllenging tasks.
 ---
 
 - Created a data processor engine, that I called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> (because it is python based) : it allows to run scripts based on configuration files with results injection between differents scripts
+- Created a microservice oriented architecture (TDD Python based) for GIS services (All those services run testsuits with Github actions CI): <br/>
+  1. <a href="https://github.com/jossefaz/gis-geofiles-convertor"> Geofiles API </a> : An API that allows conversion between differents geographic files type (GeoJSON/ Esri Shapefile / DWG)<br/>
+  2. <a href="https://github.com/jossefaz/gis-custom-layers-api"> Custom Layers API </a> : An API that CRUD GeoJSON files <br/>
+  3. <a href="https://github.com/jossefaz/gis-users-api"> Users API </a> : An API that handle authentication<br/>
+  4. <a href="https://github.com/jossefaz/gis-oauth-api"> Oauth API </a> : An API that handle authorization (JWT based)<br/>
 
 - Build a microservice oriented architecture for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
 
-- Created a microservice oriented architecture (TDD Python based) for GIS services (All those services run testsuits with Github actions CI): <br/>
-&nbsp;&nbsp; 1. <a href="https://github.com/jossefaz/gis-geofiles-convertor"> Geofiles API </a> : An API that allows conversion between differents geographic files type (GeoJSON/ Esri Shapefile / DWG)<br/>
-&nbsp;&nbsp; 2. <a href="https://github.com/jossefaz/gis-custom-layers-api"> Custom Layers API </a> : An API that CRUD GeoJSON files <br/>
-&nbsp;&nbsp; 3. <a href="https://github.com/jossefaz/gis-users-api"> Users API </a> : An API that handle authentication<br/>
-&nbsp;&nbsp; 4. <a href="https://github.com/jossefaz/gis-oauth-api"> Oauth API </a> : An API that handle authorization (JWT based)<br/>
 
 - Created microservices for saving spatial data. <a href="https://github.com/jossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. I used Java and Spring Framework for that project, with <a href="http://www.hibernatespatial.org/"> Hibernate Spatial </a>
 
