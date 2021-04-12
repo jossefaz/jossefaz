@@ -34,7 +34,7 @@ I am always eager to work on chanllenging tasks.
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge">
 </p>
 
----
+
 
 - Created a data processor engine, that I called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> (because it is python based) : it allows to run scripts based on configuration files with results injection between differents scripts
 - Created a microservice oriented architecture (TDD Python based) for GIS services (All those services run testsuits with Github actions CI): <br/>
@@ -51,6 +51,7 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
 
 - Build a <a href="https://github.com/jossefaz/projet-veterinaire-geocoding"> script </a> for interacting with <a href="https://developers.google.com/maps/documentation/geocoding/overview"> Google Geocoding API </a>.  
 
+---
 
 #### :computer: Frontend Engeneering
 <p>
@@ -62,7 +63,6 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
    <img src="https://img.shields.io/badge/OpenLayers-1F6B75?logo=openlayers&logoColor=white&style=for-the-badge">
 </p>
 
----
 
 - Build ReactJS - Typescript <a href="https://github.com/jossefaz/gis_front"> GIS Web Application </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a>  <a href="http://geoserver.org/">Geoserver </a>
 
@@ -81,7 +81,6 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
   <img src="https://img.shields.io/badge/GitlabCI-FCA121?logo=gitlab&logoColor=white&style=for-the-badge">
 </p>
 
----
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jossefaz&show_icons=true&count_private=true&theme=react" />
