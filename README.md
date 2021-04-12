@@ -24,7 +24,7 @@ I am always eager to work on chanllenging tasks.
 #### :octocat: Backend Engeneering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-007396?logo=c&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/GO-336791?logo=go&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge">
