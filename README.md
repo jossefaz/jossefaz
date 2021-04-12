@@ -55,7 +55,7 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
 
 #### :computer: Frontend Engeneering
 <p>
-   <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
+   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
