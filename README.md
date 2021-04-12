@@ -6,7 +6,7 @@
 
 I am a software craftsman for 8 years, passionate developer, spatial data and all kind of geographic software engeneering is my speciality. I developed many projects that involved microservices architecture both Domain and Event Driven Design (using Event Store and message brokers such as RabbitMQ).  
 
-Well organized work is a must for me : I use productivity tool for all my tasks and coding issues such as Trello or Jira. 
+Well organized work is a must for me : I use productivity tool for all my tasks and coding issues such as Trello or Jira. <br/>
 DevOps tools are also a must for most of my projects and I use Docker, K8s, Github Actions and Jenkins for testing and deploying.
 
 I am always eager to work on chanllenging tasks. 
