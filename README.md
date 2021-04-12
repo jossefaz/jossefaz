@@ -76,7 +76,6 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
 <p>
    <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge">
-   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=for-the-badge">
    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=0052CC&style=for-the-badge">
    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/TravisCI-3EAAAF?logo=travis&logoColor=white&style=for-the-badge">
