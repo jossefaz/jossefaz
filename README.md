@@ -47,7 +47,8 @@ I am always eager to work on chanllenging tasks.
 - Build a microservice oriented architecture for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
 
 
-- Created microservices for saving spatial data. <a href="https://github.com/jossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. I used Java and Spring Framework for that project, with <a href="http://www.hibernatespatial.org/"> Hibernate Spatial </a>
+- Created a REST API for saving spatial data : <a href="https://github.com/jossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. 
+I used Java and Spring Framework for that project, with <a href="http://www.hibernatespatial.org/"> Hibernate Spatial </a>
 
 - Build a <a href="https://github.com/jossefaz/projet-veterinaire-geocoding"> script </a> for interacting with <a href="https://developers.google.com/maps/documentation/geocoding/overview"> Google Geocoding API </a>.  
 
