@@ -33,6 +33,7 @@ I am always eager to work on chanllenging tasks.
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge">
 </p>
+
 ---
 
 - Created a data processor engine, that I called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> (because it is python based) : it allows to run scripts based on configuration files with results injection between differents scripts
