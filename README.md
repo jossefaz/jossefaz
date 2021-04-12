@@ -65,7 +65,7 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
 
 ---
 
-- Build an open-source <a href="https://github.com/jossefaz/gis_front"> GIS Web Application </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a> and <a href="http://geoserver.org/">Geoserver </a>
+- Build ReactJS - Typescript <a href="https://github.com/jossefaz/gis_front"> GIS Web Application </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a>  <a href="http://geoserver.org/">Geoserver </a>
 
 - Build a front end for managing signs posts for municipalities.  
 
