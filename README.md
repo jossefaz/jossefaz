@@ -38,7 +38,7 @@ I am always eager to work on chanllenging tasks.
 
 - Created a data processor engine, that I called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> (because it is python based) : it allows to run scripts based on configuration files with results injection between differents scripts
 
-- Created a microservice oriented architecture (TDD Python based) for GIS backend web-application (All those services run testsuits with Github actions CI) Here is the <a href="https://github.com/pygis-backend">Organization's page </a> that I created for all those services. And here is each link to each service : <br/>
+- Created a microservice oriented architecture (TDD Python based) for GIS backend web-application (All those services run testsuits with Github actions CI) Here is the <a href="https://github.com/pygis-backend">Organization's page </a> that I created for all those services. And here is separated link to each service : <br/>
   1. <a href="https://github.com/jossefaz/gis-geofiles-convertor"> Geofiles API </a> : An API that allows conversion between differents geographic files type (GeoJSON/ Esri Shapefile / DWG)<br/>
   2. <a href="https://github.com/jossefaz/gis-custom-layers-api"> Custom Layers API </a> : An API that CRUD GeoJSON files <br/>
   3. <a href="https://github.com/jossefaz/gis-users-api"> Users API </a> : An API that handle authentication<br/>
