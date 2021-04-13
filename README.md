@@ -42,7 +42,7 @@ I am always eager to work on chanllenging tasks.
   1. <a href="https://github.com/sigolo/geofiles-api"> Geofiles API </a> : An API that allows conversion between differents geographic files type (GeoJSON/ Esri Shapefile / DWG)<br/>
   2. <a href="https://github.com/sigolo/users-layers-api"> Custom Layers API </a> : An API that CRUD GeoJSON files <br/>
   3. <a href="https://github.com/sigolo/users-api"> Users API </a> : An API that handle authentication<br/>
-  4. <a href="https://github.com/sigolo/oauth-api"> Oauth API </a> : An API that handle authorization (JWT based)<br/>
+  4. <a href="https://github.com/sigolo/auth-api"> Oauth API </a> : An API that handle authorization (JWT based)<br/>
 
 - Build a microservice oriented architecture for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
 
