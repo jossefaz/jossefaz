@@ -41,7 +41,7 @@ I am always eager to work on challenging tasks.
   3. <a href="https://github.com/sigolo/users-api"> Users API </a> : An API that handle authentication<br/>
   4. <a href="https://github.com/sigolo/auth-api"> Oauth API </a> : An API that handle authorization (JWT based)<br/>
 
-- Created a data processor engine, that I called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> (because it is python based) : it allows to run scripts based on configuration files with results injection between differents scripts
+- Created a data processor engine, called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> (because it is python based) : it allows to run scripts based on configuration files with results injection between differents scripts
 
 - Build a microservice oriented architecture for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
 
