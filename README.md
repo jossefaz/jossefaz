@@ -35,21 +35,21 @@ I am always eager to work on challenging tasks.
 </p>
 
 
-- Created a microservice oriented architecture (TDD Python based) for GIS backend web-application. Here is the <a href="https://github.com/sigolo">Organization's page </a> that I created for all those services. And here is separated link to each service : <br/>
+- Created a **microservice oriented architecture (TDD Python based)** for GIS backend web-application. Here is the <a href="https://github.com/sigolo">Organization's page </a> that I created for all those services. And here is separated link to each service : <br/>
   1. <a href="https://github.com/sigolo/geofiles-api"> Geofiles API </a> : An API that allows conversion between differents geographic files type (GeoJSON/ Esri Shapefile / DWG)<br/>
   2. <a href="https://github.com/sigolo/users-layers-api"> Custom Layers API </a> : An API that CRUD GeoJSON files <br/>
   3. <a href="https://github.com/sigolo/users-api"> Users API </a> : An API that handle authentication<br/>
   4. <a href="https://github.com/sigolo/auth-api"> Oauth API </a> : An API that handle authorization (JWT based)<br/>
   **All those services run testsuits with Github actions CI**
 
-- Created a data processor engine, called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> that allows to run scripts based on configuration files with results injections between differents scripts executions and processes
+- Created a **data processor engine**, called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> that allows to run scripts based on configuration files with results injections between differents scripts executions and processes
 
-- Build a microservice oriented architecture for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
+- Build a **microservice oriented architecture** for managing Geo-Alerts (like notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
 
-- Created a REST API for saving spatial data : <a href="https://github.com/jossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. 
+- Created a **REST API** for saving spatial data : <a href="https://github.com/jossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. 
 I used Java and Spring Framework for that project, with <a href="http://www.hibernatespatial.org/"> Hibernate Spatial </a>
 
-- Build a <a href="https://github.com/jossefaz/projet-veterinaire-geocoding"> script </a> for interacting with <a href="https://developers.google.com/maps/documentation/geocoding/overview"> Google Geocoding API </a>.  
+- Build a <a href="https://github.com/jossefaz/projet-veterinaire-geocoding"> <b>script</b> </a> for interacting with <a href="https://developers.google.com/maps/documentation/geocoding/overview"> Google Geocoding API </a>.  
 
 ---
 
@@ -64,7 +64,7 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
 </p>
 
 
-- Build ReactJS - Typescript <a href="https://github.com/sigolo/gis-front"> GIS Web Application </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a> and <a href="http://geoserver.org/">Geoserver </a>
+- Build **ReactJS - Typescript** <a href="https://github.com/sigolo/gis-front"> <b>GIS Web Application</b> </a> based on <a href="https://openlayers.org/">OpenLayers 6.0 </a> and <a href="http://geoserver.org/">Geoserver </a>
 
 - Build a front end for managing signs posts for municipalities.  
 
