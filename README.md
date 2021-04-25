@@ -44,7 +44,7 @@ I am always eager to work on challenging tasks.
 
 - Created a **data processor engine**, called the <a href="https://github.com/jossefaz/pypliner-data-processor">Pypeliner</a> that allows to run scripts based on configuration files with results injections between differents scripts executions and processes
 
-- Build a **microservice oriented architecture** for managing Geo-Alerts (notifications based on geo-localisation) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
+- Build a **microservice oriented architecture** for managing Geo-Alerts (notifications based on geo-location) Here is <a href="https://github.com/micro-gis">the GitHub organization </a> that I created for that project. Most of microservices there are written in GO programming language.
 
 - Created a **REST API** for saving spatial data : <a href="https://github.com/jossefaz/persistent-geometry-microservice"> Persistent Geometry </a>. 
 I used Java and Spring Framework for that project, with <a href="http://www.hibernatespatial.org/"> Hibernate Spatial </a>
