@@ -82,11 +82,19 @@ I used Java and Spring Framework for that project, with <a href="http://www.hibe
   <img src="https://img.shields.io/badge/Github Actions CI-2088FF?logo=github&logoColor=white&style=for-the-badge">
 </p>
 
+---
+
+#### :bar_chart: Stats
 
 
-<p align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jossefaz&show_icons=true&count_private=true&theme=react" />
-</p>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossefaz&layout=compact&theme=react" />
+</div>
+
+
 
 ---
 
