@@ -1,71 +1,69 @@
 <p align="center">
-  <img src="/githubBanner.gif">
-</p>  
-
-### Hi there — and welcome to my GitHub page 👋
-
-I’m **Josef Azoulay**, currently serving as a **Solution Architect** and **Backend Developer** at **Illumina | Emedgene**, where I design large-scale, data-driven systems for genomic analysis and interpretation.
-
-Over the past decade, I’ve evolved from a GIS and spatial-data engineer into a cloud architect, building **bioinformatics pipelines**, **microservice ecosystems**, and **data platforms** that process billions of genetic variants.  
-My daily work now blends **Python engineering**, **cloud infrastructure (AWS)**, and **data lake design** with a focus on performance, automation, and reproducibility.
-
----
-
-### 🧬 What I do
-
-#### 🐍 Backend & Data Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Polars-F03A17?logo=polars&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF90&background=000000&width=700&center=true&vCenter=true&lines=Welcome+to+Josef's+Profile;Architect+%26+Backend+Developer+%40+Illumina+|+Emedgene;Designing+data-driven+systems+for+genomics;Let's start building great things together  💻 " alt="Typing SVG" />
 </p>
 
-- Architected and implemented **variant annotation pipelines** that combine Ensembl VEP, Nirvana, and internal annotation sources, exporting massive results into **Parquet** data lakes.  
-- Designed and led the **Elasticsearch → Parquet migration**, integrating DuckDB for high-performance analytics across billions of variants.  
-- Built distributed microservices for genomic workflows using **FastAPI**, **Celery**, and **AWS Fargate/ECS**, ensuring reproducibility and observability through **New Relic APM** and custom monitoring dashboards.  
-- Automated **nightly QA pipelines** with Allure and Jama integration to validate bioinformatics results at scale.  
-- Wrote internal frameworks for **case pooling**, **automated data versioning**, and **compliance logging** (IVDR-ready).  
+
+
+
+```bash
+┌───────────────────────────────────────────────┐
+│         💻  Emedgene / Illumina Shell         │
+└───────────────────────────────────────────────┘
+
+$ whoami
+> Josef — Architect & Backend Developer @ Illumina | Emedgene
+
+$ mission
+> Design reliable, maintainable and data-driven systems 
+> for large-scale genomic analysis
+
+$ uptime
+> Active in backend engineering, system architecture, 
+> and data platform design for genomic pipelines.
+```
 
 ---
 
-#### 🧠 System Architecture
+### 🧬 Current Work
 
-- Defined system-level designs connecting AWS services (S3, RDS, EFS/FSx, API Gateway, Lambda) with internal services like **Donbot** (authentication), **Scruffy** (ontology service), and **Bender/Fry** (data orchestration).  
-- Established CI/CD standards using **GitHub Actions** and **Terraform** to maintain multi-region deployments (US-West-2 & EU-Central-1).  
-- Designed automated **S3 → EBS snapshot sync** using SSM + CloudWatch Events.  
+```bash
+# Backend & Data
+• Python, DuckDB, Parquet
+• Large-scale variant annotation pipelines
+• Elasticsearch → Parquet analytics migration
+
+# Architecture
+• Microservices, FastAPI, AWS Fargate/ECS
+• CI/CD pipelines with GitHub Actions & Terraform
+• IVDR-compliant reproducibility & traceability
+```
 
 ---
 
-#### 🧰 DevOps & Tooling
+### ⚙️ Core Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/New Relic-008C99?logo=newrelic&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,react,postgres,mysql,duckdb,aws,docker,kubernetes,terraform,linux,bash,nginx,redis,neovim&perline=8" />
 </p>
 
-- Heavy command-line user — I live in `tmux`, `neovim`, and `zsh`.  
-- Developed CI/CD pipelines for reproducible bioinformatics environments (multi-stage Docker builds for Perl, R, VEP & Python).  
-- Integrated system-wide **observability and cost monitoring** through New Relic APM and AWS Cost Explorer automation.  
+<pre style="background:#0d1117;color:#00ff90;padding:20px;border-radius:10px;font-family:Monaco,Consolas,monospace;font-size:14px;">
+$ stack list
+> Languages: Python | Go | C | JavaScript
+> Databases: PostgreSQL | MySQL | DuckDB | Parquet
+> Cloud: AWS | Terraform | Docker | Kubernetes
+> DevOps: GitHub Actions | Jenkins | New Relic
+> Terminal: zsh | tmux | neovim
+</pre>
 
 ---
 
-#### 🧭 Personal Interests
+### 🧭 Interests
 
-- **Medieval history**, **philosophy**, and **literature**.  
-- **Kendo** practitioner and **Japanese culture** enthusiast.  
-- Builds personal productivity systems in **Obsidian**, integrating AI assistants for task summarization and knowledge management.  
+```bash
+> Simplifying complex systems through automation
+> Exploring performance & scalability in genomics
+> Practicing Kendo & reading about history and philosophy
+```
 
 <p align="center">
   <img align="center" alt="GIF" height="100px" src="https://user-images.githubusercontent.com/61141682/90424945-a33cb580-e0c7-11ea-89eb-3d77581b34b2.gif" />
@@ -73,25 +71,12 @@ My daily work now blends **Python engineering**, **cloud infrastructure (AWS)**,
 
 ---
 
-### 📊 Stats
+### 📫 Contact
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jossefaz&show_icons=true&count_private=true&theme=react" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossefaz&layout=compact&theme=react" />
-</div>
+```bash
+$ mail
+> jazoulay@illumina.com
 
----
-
-### 📫 Contact Me
-
-<p>
-<a href="https://www.linkedin.com/in/jossefaz/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:jazoulay@illumina.com"><img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/13000695/jossefaz">
-<img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</a>
-</p>
+$ ping slack
+> Reachable ✅
+```
