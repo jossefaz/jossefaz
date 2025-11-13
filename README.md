@@ -43,15 +43,15 @@ $ uptime
 ### ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,react,postgres,mysql,duckdb,aws,docker,kubernetes,terraform,linux,bash,nginx,redis,neovim&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,js,react,postgres,mysql,aws,docker,terraform,linux,bash,nginx,redis,vim&perline=8" />
 </p>
 
 <pre style="background:#0d1117;color:#00ff90;padding:20px;border-radius:10px;font-family:Monaco,Consolas,monospace;font-size:14px;">
 $ stack list
 > Languages: Python | Go | C | JavaScript
 > Databases: PostgreSQL | MySQL | DuckDB | Parquet
-> Cloud: AWS | Terraform | Docker | Kubernetes
-> DevOps: GitHub Actions | Jenkins | New Relic
+> Cloud: AWS | Terraform | Docker
+> DevOps: GitHub Actions | Jenkins 
 > Terminal: zsh | tmux | neovim
 </pre>
 
