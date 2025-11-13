@@ -43,7 +43,7 @@ $ uptime
 ### ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,js,react,postgres,mysql,aws,docker,terraform,linux,bash,nginx,redis,vim,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,react,postgres,mysql,aws,docker,terraform,linux,bash,nginx,redis,vim&perline=14" />
 </p>
 
 <pre style="background:#0d1117;color:#00ff90;padding:20px;border-radius:10px;font-family:Monaco,Consolas,monospace;font-size:14px;">
